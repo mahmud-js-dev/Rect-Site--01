@@ -12,10 +12,12 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@babel/core": "^7.21.8",
     "eslint": "^7.18.0",
     "eslint-config-prettier": "^8.1.0",
     "parcel": "^2.8.3",
-    "prettier": "^2.8.8"
+    "prettier": "^2.8.8",
+    "process": "^0.11.10"
   },
   "dependencies": {
     "react": "^17.0.1",

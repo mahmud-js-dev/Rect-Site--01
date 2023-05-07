@@ -1,36 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@mahmud-js-dev 
-btholt
-/
-citr-v6-project
-Public
-Fork your own copy of btholt/citr-v6-project
-Code
-Issues
-11
-Pull requests
-5
-Actions
-Projects
-Security
-Insights
-Beta Try the new code view
-citr-v6-project/01-no-frills-react/src/style.css
-@btholt
-btholt update styles, paths
-Latest commit f6775b2 on Mar 11, 2021
- History
- 1 contributor
-328 lines (283 sloc)  5.02 KB
- 
-
 * {
   box-sizing: border-box;
   color: #333;
@@ -359,18 +326,3 @@ header {
     height: 60px;
   }
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-citr-v6-project/style.css at master · btholt/citr-v6-project
